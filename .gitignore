@@ -1,0 +1,10 @@
+**/outputs/
+**/matched_cv_20261107/
+__pycache__/
+.venv/
+.env
+*.csv
+*.parquet
+*.duckdb
+*.sqlite*
+*.zip
